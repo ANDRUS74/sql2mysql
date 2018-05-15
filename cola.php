@@ -1,5 +1,5 @@
 <?php
-
+// solo agrego un comentario
 $cola = new SplQueue;
 
 $obj= new stdClass;
