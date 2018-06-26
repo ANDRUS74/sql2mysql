@@ -2,4 +2,4 @@
 Esta clase es para realizar pruebas basicas.
 Surgió como una prueba para conocer como funciona github.
 No deberia ser usado mas que como referencia sabiendo que puede fallar.
-Cambio 26/06
+Este cambio fue hecho en develop
